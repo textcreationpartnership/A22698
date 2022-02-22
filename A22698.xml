@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speciall orders and directions by the Queenes Maiesties commandement to all iustices of peace, and all maiors, shiriffes, and all principall officers of cities, boroughs, and townes corporate, for stay and redresse of [dearth of graine]</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22698</idno>
+            <idno type="STC">STC 9208.7</idno>
+            <idno type="STC">ESTC S1930</idno>
+            <idno type="EEBO-CITATION">22922465</idno>
+            <idno type="OCLC">ocm 22922465</idno>
+            <idno type="VID">25907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1792:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speciall orders and directions by the Queenes Maiesties commandement to all iustices of peace, and all maiors, shiriffes, and all principall officers of cities, boroughs, and townes corporate, for stay and redresse of [dearth of graine]</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>[2], 14 [i.e. 13] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Error in paging: p. 4 skipped in the numbering.</note>
+                  <note>Imperfect: torn and creased.</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grain trade --  Law and legislation --  England.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Great Britain --  Politics and government --  1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25907:1"/>
+            <pb facs="tcp:25907:1" rendition="simple:additions"/>
+            <p>Speciall Orders and directions By the Queenes Ma<g ref="char:EOLhyphen"/>ieſties commandement, to all Iuſtices of Peace, and all Maiors, Shi<g ref="char:EOLhyphen"/>riffes, and all principall Officers of Ci<g ref="char:EOLhyphen"/>ties, Boroughs, and Townes cor<g ref="char:EOLhyphen"/>porate, for ſtay and redreſſe of dearth of Graine;</p>
+            <p>¶ Imprinted at London by Robert Barker, printer to the Queenes moſt excellent Maieſtie. ANNO 1600.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:25907:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="orders">
+            <pb n="1" facs="tcp:25907:2" rendition="simple:additions"/>
+            <head>¶ A new charge for execution of ſundry Orders publiſhed the yeere 1595. for ſtay of dearth of Graine; Now this preſent yeere to bee well obſerued and executed.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here in ſome parts of this Realme Corne without a<g ref="char:EOLhyphen"/>ny iuſt cauſe for any thing that hath hitherto appea<g ref="char:EOLhyphen"/>red is ſuddenly riſen to a far greater price then hath bene expected. To the ende that the true cauſe thereof may bee knowen &amp; found out, &amp; that al good meanes may bee vſed to preuent all occaſions that might mooue any further dearth of Graine hereafter; Her Maieſtie hath thought good by the aduiſe of the Lords &amp; other of her Priuie Coun<g ref="char:EOLhyphen"/>ſell, to publiſh and ſet foorth theſe Orders following from henceforth to be obſerued.</p>
+            <p n="1">
+               <hi>1</hi> THat the Iuſtices of Peace in euery County (not being ingroſſers or buyers of Corne to the in<g ref="char:EOLhyphen"/>tent to ſell the ſame againe) deuide themſelues into ſeuerall Lymits, and from time to time from hence<g ref="char:EOLhyphen"/>foorth doe vſe all care and diligence to be truely infor<g ref="char:EOLhyphen"/>med
+<pb n="2" facs="tcp:25907:3"/>without partialitie to any perſon what ſtore of Graine any perſon hath in any Pariſh to ſpare aboue what may be for his owne needfull vſe and expences, and of what kinde.</p>
+            <p n="2">
+               <hi>2</hi> That they vſe for their better helpe herein, ſuch perſons and in ſuch maner as they ſhall thinke moſt fit and conuenient for the furtherance of this ſeruice.</p>
+            <p n="3">
+               <hi>3</hi> And to that end that they be charged diligently and carefully to informe themſelues, and to make due inquirie, ſearch and triall what quantitie of any ma<g ref="char:EOLhyphen"/>ner of Graine they or any other within their Pariſh, aſwell Iuſtices of the Peace as others whatſoeuer haue in their Barnes, Grayners, Lofts, Cellours, Floores or otherwiſe to bee deliuered vnto them vpon any bargaine, more then will conueniently ſerue for their owne needfull expences.</p>
+            <p n="4">
+               <hi>4</hi> Item, what number of Badgers, Kidders, Broggers, or Carriers of Corne, Butter, Cheeſe or o<g ref="char:EOLhyphen"/>ther like Victuals, inhabite within the ſaid Pariſh, And whither they doe vſe to cary their Corne or other Victuals which they doe buy, and where they do vſu<g ref="char:EOLhyphen"/>ally buy the ſame, and what their names bee, and how long they haue vſed that trade, and by whoſe li<g ref="char:EOLhyphen"/>cence, and to ſee the ſame Licences of what tenour they are of.</p>
+            <p n="5">
+               <hi>5.</hi> Item, what number of Malt-makers, Ba<g ref="char:EOLhyphen"/>kers, Common brewers, Inkeepers or Tiplers, dwel within the ſaide Pariſh, and who they are by name, and howe long they haue vſed that trade, and howe much they bake or brewe in the weeke, and what o<g ref="char:EOLhyphen"/>ther trade they haue whereby otherwiſe to liue.</p>
+            <p n="6">
+               <hi>6</hi> Item, who within the ſaid Pariſh be Ingroſ<g ref="char:EOLhyphen"/>ſers or buyers of Corne, or doe vſe to buy or haue bought any Corne or Graine to ſell againe, and what quantitie they haue bought, and of what kindes, and
+<pb n="3" facs="tcp:25907:3"/>at what price ſithence Michaelmas laſt, and howe much thereof they haue ſold, and at what prices. And aboue all others to take ſpeciall care that the ſtore<g ref="char:EOLhyphen"/>houſes and Grainers of al ſuch Ingroſſers, Badgers, and buyers of Corne to ſell againe be throughly and perticularly viewed and looked vnto, and perfit notice taken what ſtore of all kindes of Graine euery ſuch perſon hath.</p>
+            <p n="7">
+               <hi>7</hi> Item, whether any Tanner within the ſame Pariſh doth vſe any Malt, Barly, or other Graine in or about the tanning of any kinde of Leather, if any doe, then what quantitie they vſe or ſpend about the ſame.</p>
+            <p n="8">
+               <hi>8</hi> Item, who within the ſame Pariſh buyeth, or haue bought or ſolde any Graine vpon the ground, of whom and to whom hath the ſame bent bought or ſolde, and at what price, and to certifie vnto the Iuſti<g ref="char:EOLhyphen"/>ces of the premiſſes, and of euery part thereof on the firſt day of Iuly now next comming, and to euery part of theſe Articles the parties aſſigned ſhall bring anſwere from point to point.</p>
+            <p n="9">
+               <hi>9</hi> The Iuſtices of the Peace within their ſeueral Diuiſions, ſhall take ſpeciall care that the Orders en<g ref="char:EOLhyphen"/>ſuing be well obſerued, and duely put in execution, as themſelues will anſwere the contrary, and that they once euery Moneth at the furtheſt, doe certifie vnto the Lords of her Maieſties Priuie Councill, in what ſtate their Countrey ſtandeth for plentie or ſcarcetie of Corne and Graine, and the prices thereof, and how the Orders enſuing be put in execution and obeyed, and whether they or any of them ſhalbe found by ex<g ref="char:EOLhyphen"/>perience profitable and conuenient, or otherwiſe vn<g ref="char:EOLhyphen"/>profitable or inconuenient to be put in execution in the ſame Countreys.</p>
+         </div>
+         <div type="orders">
+            <pb n="5" facs="tcp:25907:4"/>
+            <head>The Orders to be obſerued are theſe. <hi>
+                  <g ref="char:V">Ʋ</g>iz.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat none be permitted to buy nor ſell any maner of Corne but in the open Market, vnleſſe the ſame be by ſpeciall licence, or by commiſſi<g ref="char:EOLhyphen"/>on or warrant for her Maieſties ſeruice, or to ſome poore handi<g ref="char:EOLhyphen"/>crafts men, or day laborers with<g ref="char:EOLhyphen"/>in the Pariſh wherein they doe dwel, that cannot conueniently come to the Market townes by reaſon of diſtance of place, according to ſuch direction as ſhall be giuen in that behalfe by the Iuſtices of the Peace of that Diuiſion within which they do dwell, or two of them: &amp; to none of theſe poore aboue one buſhell at a time, and thereof the party ſhall keepe a particular note in writing to whom he ſhall ſo ſell weekly, and at what prices, ſo as the ſame may appeare to the Iuſtices to be done without fraud or abuſe.</p>
+            <p n="2">
+               <hi>2</hi> That the Iuſtices of the Peace within their ſe<g ref="char:EOLhyphen"/>uerall Diuiſions haue ſpecial regard that Ingroſſers of Corne be carefully ſeene vnto, and that thereupon they may be ſeuerely proceeded with, and puniſhed ac<g ref="char:EOLhyphen"/>cording to the Law: and to ſee that none be permit<g ref="char:EOLhyphen"/>ted to by any Corne to ſell againe, but by ſpeciall li<g ref="char:EOLhyphen"/>cence; and ſuch to be drawen to ſell ſome reaſonable portion to the poore at reaſonable prices both in the Markets and otherwiſe.</p>
+            <p n="3">
+               <hi>3</hi> That no Badgers be permitted, but ſuch as the Statute doth limit; and that no ſeruant of any be li<g ref="char:EOLhyphen"/>cenced to be a Badger, except ſixe of the Iuſtices at the leaſt ſhall in open Seſſions for ſome neceſſary cauſe
+<pb n="6" facs="tcp:25907:4"/>allow any ſuch, and that none at all be allowed a Badger, except he be allowed in open Seſſions, &amp; the Badger allowed, not to make prouiſion or ſell in any forren countrey but with the priuity and allowance of ſome Iuſtices of the Peace of that countrey. And furthermore, that none be permitted to buy or pro<g ref="char:EOLhyphen"/>uide Corne in the Market in groſſe, as a Badger or Baker, Brewer or Purueyour, and ſuch like, vpon paine of impriſonment, vntill two houres after the full Market be begunne in the Summer time, and one houre in the Winter time, that the poore may be firſt ſerued.</p>
+            <p n="4">
+               <hi>4</hi> Where in ſome parts of the Realme diuers Mil<g ref="char:EOLhyphen"/>lers, who ought onely to ſerue for grinding of Corne that ſhall be brought to their milles, haue begun late<g ref="char:EOLhyphen"/>ly a very corrupt trade, to be co<g ref="char:cmbAbbrStroke">̄</g>mon buyers of Corne, both in Markets and out of Markets, and the ſame do grind into meale, and do vſe as Badgers, or other<g ref="char:EOLhyphen"/>wiſe to ſell the ſame at Markets and in other places, ſeeking thereby an inordinate gaine, beſides the miſ<g ref="char:EOLhyphen"/>vſing of other mens Corne brought thither to be ground, by delay of grinding, or that woorſe is, by changing and altering of their good Corne to the worſe: It is thought very neceſſary that the Iuſtices of the Peace, who are not owners by any title of any milles, nor maſters or landlords to any Millers, ſhall firſt inhibit all Millers vpon paine both of impriſon<g ref="char:EOLhyphen"/>ment and fine to vſe any ſuch trade of buying of any graine to be ſolde either in Corne or Meale, but to charge them to continue the orderly vſe of grinding of all maner of Corne that ſhall be brought to them, in reaſonable good ſort, and vpon reaſonable toll. And for better performance hereof, ſome of the Iuſtices not affectionated to the Millers ſhall ſometime per<g ref="char:EOLhyphen"/>ſonally themſelues reſort to the milles to ouerſee the
+<pb n="6" facs="tcp:25907:5"/>doings of the ſayd Millers, and compell them to doe their dueties. And where none of the Iuſtices can as need ſhalbe weekely looke thereto, they ſhall appoint certaine honeſt perſons weekly to attend thereto, and to informe themſelues of the poorer ſort how they are vſed in this time of dearth for their grinding &amp; their toll, and preſent the defaults to the Iuſtices, to be ſpeedily reformed with all due ſeuerity.</p>
+            <p n="5">
+               <hi>5</hi> Higlers and Purueyors for the City of London or any other City, not to be permitted to buy Corne or other victual but in open Market, &amp; that two houres after the full Market in the Summer and one houre in the Winter. Neuertheleſſe, for the better furniſh<g ref="char:EOLhyphen"/>ing of the ſayd Cities with neceſſary prouiſions and in conuenient maner it is ordered that further pro<g ref="char:EOLhyphen"/>uiſions ſhall be from time to time made for them in ſuch ſort as the Lords of her Maieſties Councell ſhal further direct in that behalfe.</p>
+            <p n="6">
+               <hi>6</hi> That the Iuſtices vſe all other good meanes poſſible that are not mentioned in theſe orders, that the Markets may be well ſerued, and the poore relie<g ref="char:EOLhyphen"/>ued in their prouiſions during all times of dearth. And that in times of dearth no expenſe of any graine meet for bread to feed men be waſted vpon feeding of dogs or other beaſts, neither that any at any time be ſpent in making ſtuffe called Starch, or in tanning of any kinde of leather.</p>
+            <p n="7">
+               <hi>7</hi> That where need ſhall ſo require all good meanes and perſuaſions be vſed by the Iuſtices in their ſeuerall Diuiſions, and by admonitions and exhortations in Sermons in the Churches by the Preachers and Mimſters of the Word, that the poore may be ſerued of Corne at conuenient and charitable prices. And to the furtherance thereof, that the richer ſort be earneſtly moued by Chriſtian charity to cauſe
+<pb n="7" facs="tcp:25907:5"/>their graine to be ſolde vnder the common prices of the Market to the poorer ſort: A deed of mercy that will doubtleſſe be rewarded of Almighty God.</p>
+            <p n="8">
+               <hi>8</hi> That the Iuſtices be ſtraightly commanded to ſee by all good meanes that houſes of Correction be prouided and furniſhed, and there idle vagabonds to be puniſhed, and ſet on worke according to the ſtatute.</p>
+            <p n="9">
+               <hi>9</hi> That the Iuſtices doe their beſt to haue conue<g ref="char:EOLhyphen"/>nient ſtocks of money or wares to be prouided in eue<g ref="char:EOLhyphen"/>ry Diuiſion or other places, according to the ſtatute, for ſetting the poore on worke: and the Iuſtices to vſe all other good and politike meanes within their ſeue<g ref="char:EOLhyphen"/>rall Diuiſions to continue and maintaine the poore people in worke within the Pariſh, according to the ſtatute, and namely in clothing countreyes to charge the Clothiers that haue in former times gained by that trade, to continue the ſame, whereby the poore may be ſet on worke.</p>
+            <p n="10">
+               <hi>10</hi> That the maimed and hurt Souldiour, and all other impotent perſons, be carefully ſeene vnto to be relieued within their ſeuerall Pariſhes, Hundreds or Diuiſions, according to the Law there in prouided: and that where the prouiſions formerly made and aſ<g ref="char:EOLhyphen"/>ſeſſed vpon the houſholders in euery pariſh be not ſuf<g ref="char:EOLhyphen"/>ficient, it may be now for this time of dearth charita<g ref="char:EOLhyphen"/>bly increaſed. And where any Pariſh is not able to giue ſufficient reliefe to ſuch their poore, that pariſh to haue the ſupply of ſuch other pariſhes nere adioyning as haue fewer poore, &amp; are better able to giue reliefe. And no vagabond or any other be ſuffered to wander abroad vnder colour of begging in any towne, field or high way, but that the ſtatute in that behalfe be duly put in execution.</p>
+            <p n="11">
+               <hi>11</hi> If there be any ſpeciall part within any Shire that hath as a libertie by ſpeciall Commiſſions any
+<pb n="8" facs="tcp:25907:6"/>Iuſtices of the Peace within the ſame, the Shirife of the Shire ſhall ſend vnto the principall owner or of<g ref="char:EOLhyphen"/>ficer of ſuch Liberty notice of theſe orders, and ſhall charge them that the Iuſtices of the Peace within ſuch Liberty do their dueties for execution of all theſe orders, as farre foorth as ſhall be requiſit, and therein alſo to vſe by conference the aduice of ſome other Iu<g ref="char:EOLhyphen"/>ſtices next adioyning.</p>
+            <p n="12">
+               <hi>12</hi> That no tranſportation of Corne or Victuall be but from port to port within this Realme, and that but in caſes needful, as for the prouiſions of London, ſhipping, her Maieſties ſeruice, or ſuch like. And that be done by the view and ouerſeeing of her Maieſties officers of the Cuſtome houſe of the Port where the ſame ſhall be laden, or of the moſt part of them, and of the chiefe Magiſtrates of the Towne in which that port is, and alſo of ſome of the Commiſſioners of the County in which that port is, and for that purpoſe aſ<g ref="char:EOLhyphen"/>ſigned. And that in ſuch caſe good bonds with ſuffi<g ref="char:EOLhyphen"/>cient ſureties be taken to her Maieſties vſe for the deliuery thereof at the Port to which the ſame ſhall be aſſigned. And for bringing backe in conuenient time not only a true Certificate of the vnlading there<g ref="char:EOLhyphen"/>of at the ſame port ſo aſſigned from her Maieſties offi<g ref="char:EOLhyphen"/>cers of the Cuſtome houſe of that port to the Cuſtom<g ref="char:EOLhyphen"/>er of the port where the ſame was laden, but alſo an<g ref="char:EOLhyphen"/>other Certificate from the chiefe Magiſtrate of the Towne of that port where the ſame ſhalbe aſſigned to be vnladen: and from ſome of the Commiſſioners of the County in which that Towne is for the purpoſe aſſigned, vnto the Commiſſioners &amp; chiefe magiſtrate of that port where the ſame was laden, of the due and iuſt vnlading thereof at the port aſſigned. And tran<g ref="char:EOLhyphen"/>ſcripts of thoſe Certificats to be made and certified in<g ref="char:EOLhyphen"/>to the Eſchequer in the beginning of euery Terme.</p>
+            <p n="13">
+               <pb n="9" facs="tcp:25907:6"/>
+               <hi>13</hi> And if the commiſſioners for that purpoſe aſſig<g ref="char:EOLhyphen"/>ned ſhall not do their beſt indeuors to make ſtay of the tranſporting of Corne, as by authority of their com<g ref="char:EOLhyphen"/>miſſion they ought to doe, then any other Iuſtice by authority of theſe orders ſhall make ſtay of all ſuch tranſportation, and in his ſo doing ſhall be allowed and maintained. And this is thought meet to be in this ſort directed, for that it may be doubted that a<g ref="char:EOLhyphen"/>mongſt ſo many as are appointed in the foreſayd com<g ref="char:EOLhyphen"/>miſſion againſt tranſportation ſome may bee miſta<g ref="char:EOLhyphen"/>ken, being themſelues either tranſporters, or friends or fauourers to tranſporters, or negligent in the exe<g ref="char:EOLhyphen"/>cution of the charge committed to them.</p>
+            <p n="14">
+               <hi>14</hi> That ſpeciall care be taken that the Fiſhdayes and dayes of Faſting and abſtinence bee very ſtrictly and duely kept.</p>
+            <p n="15">
+               <hi>15</hi> That thoſe that are Ingroſſers or hoorders vp of Corne, and bring litle quantitie to the Market, that from ſuch perſons prouiſion may be made for her Maieſties ſhipping, the ſeruice of Ireland, and other publique ſeruices, as need ſhall require.</p>
+            <p n="16">
+               <hi>16</hi> To take order that the multitude of Badgers and buyers both of Butter &amp; Cheeſe, as alſo of Corne to ſell againe, may in euery Countie vpon conference amongſt the Iuſtices be reduced to a competent num<g ref="char:EOLhyphen"/>ber, and thoſe of the fitteſt perſons for that purpoſe, and the reſidue to be remoued.</p>
+            <p n="17">
+               <hi>17</hi> That ſuch of theſe Badgers &amp; buyers as ſhall remaine, be onely permitted to make prouiſion to fur<g ref="char:EOLhyphen"/>niſh the Markets of ſuch Cities and other great Townes and places, which otherwiſe are not able to be ſufficiently prouided for, of thoſe prouiſions in the Countreys neere adioyning, for that they are onely needfull for thoſe places.</p>
+            <p n="18">
+               <hi>18</hi> To foreſee that no couenous practiſes be vſed
+<pb n="10" facs="tcp:25907:7"/>betweene the Farmer or Maulſter, and the Badger, Baker, Brewer, or buyer to ſell againe, whereby the Farmer or other ſhould deteine his Corne or Mault do the ende of the Market to the hinderance of the Market: But if any ſuch be found then ſuch offender to be duely puniſhed.</p>
+            <p n="19">
+               <hi>19</hi> That in ſuch Townes and Pariſhes where a<g ref="char:EOLhyphen"/>ny dearth ſhalbe, the Iuſtices of thoſe Lymits or pla<g ref="char:EOLhyphen"/>ces do from time to time aſſigne ſome one honeſt per<g ref="char:EOLhyphen"/>ſon to be a Baker, to ſerue onely the poorer ſort, and to make for them ſuch bread, &amp; at ſuch aſſiſe and price as the ſaide Iuſtices ſhall aſſigne, allowing to ſuch per<g ref="char:EOLhyphen"/>ſon as ſhall take the paines therein, a reaſonable pro<g ref="char:EOLhyphen"/>portion of gaine for his or her trauaile and charges, as ſhalbe thought fit by the ſame Iuſtices, And that the Iuſtices haue ſpeciall care that the Aſſiſe of bread and drinke be duely ſeene, and that weights and mea<g ref="char:EOLhyphen"/>ſures be according to the Standerds.</p>
+            <p n="20">
+               <hi>20</hi> After view taken of the number of Alehouſes, Victualling houſes, and Tippling houſes in euery Towne, pariſh, village and Hamlet within their iu<g ref="char:EOLhyphen"/>riſdictions, to conſider what number of them is ne<g ref="char:EOLhyphen"/>ceſſary and fit for euery Towne, pariſh, village &amp; ham<g ref="char:EOLhyphen"/>let to continue. And thereupon to diſcharge the ſu<g ref="char:EOLhyphen"/>perfluous number, and ſuch as are vnmeete to keepe the ſame, and to allow but a conuenient number, and no more then ſhalbe needfull, and thoſe but in places neceſſary, &amp; the ſame to bee in the midſt &amp; heart of the ſaid Townes and villages, and in no ſort to allow a<g ref="char:EOLhyphen"/>ny at the ends of any Towne, village, or hamlet, nor in out places or places diſtant from the reſt of the towne or village. And hereafter no licence to be gran<g ref="char:EOLhyphen"/>ted for Victualling or tipling, but in the open quarter Seſſions, and that by the conſent of the moſt part of the Iuſtices there preſent, whereof ſome of them to be
+<pb n="11" facs="tcp:25907:7"/>of the Lymite in which the houſe is, whoſe names with the number of y<hi rend="sup">e</hi> houſes licenced in euery towne or village, the Clearke of the Peace ſhall inſert in a Booke, or roll to be kept for that purpoſe. And that no greater number bee hereafter admitted to keepe Tip<g ref="char:EOLhyphen"/>ling houſes in any Towne, village or place, but ſuch as ſhall be agreed at this firſt view, and order to be ta<g ref="char:EOLhyphen"/>ken therein.</p>
+            <p n="21">
+               <hi>21</hi> To take ſtraite order by Bonde or otherwiſe with the common Brewers, that they ſerue no Beere or Ale to any Iunekeeper, Alehouſekeeper, Victual<g ref="char:EOLhyphen"/>ler or Tipler, but at ſuch rate and price as by the Iu<g ref="char:EOLhyphen"/>ſtices of the Peace ſhalbe ſet downe and appointed by authoritie of the Statute of <hi>23. Hen. 8. Cap. 4.</hi> And yet the ſame to be well ſodden, and well brewed of whole<g ref="char:EOLhyphen"/>ſome Graine as it ought to be, which order is thought fit to bee done at the quarter Seſſions by a generall conſent.</p>
+            <p n="22">
+               <hi>22</hi> That no Inkeeper or Tipler that may conue<g ref="char:EOLhyphen"/>niently be ſerued from any Brewer, be ſuffred to brew in their houſes, but that they take from the Brewers ſuch drinke onely and of ſuch reaſonable ſyſe, as ſhall be fit for traueilers and paſſengers, and as the Iuſti<g ref="char:EOLhyphen"/>ces of the Peace of that place or Lymit ſhall aſſigne or ſet downe as fit for that purpoſe, wherein they are to haue ſpeciall reſpect that the drinke be ſuch onely as may ſerue for neceſſary vſe, and not for drunkenneſſe or exceſſe; And that no Victualing or Tipling houſe haue drinke of any better goodneſſe then another.</p>
+            <p n="23">
+               <hi>23</hi> That the ſame Iuſtices take order in like ma<g ref="char:EOLhyphen"/>ner where no Common brewer may be had, to ſerue theſe houſes, that ſome one houſe of theſe brewe for themſelues &amp; the other Inkeepers &amp; Tiplers in that towne Beere of one aſſiſe and vrice, as the ſame Iuſti<g ref="char:EOLhyphen"/>ces ſhall ſet downe &amp; appoint ſo be ſold as is aforeſaid.</p>
+            <p n="24">
+               <pb n="12" facs="tcp:25907:8"/>
+               <hi>24</hi> That ſuch as vſually haunt Tauernes, Innes or other Tipling houſes, and ſhalbe there found tip<g ref="char:EOLhyphen"/>ling extraordinarily, and ſuch other as vſe to drinke in theſe places to drunkennes, or other extraordinary exceſſe, bee bound with good Suerties to their good behauiour, which if they ſhall refuſe to doe, then the Iuſtices to commit ſuch ſo refuſing to the common Gaile, there to remaine vntill they ſhall finde ſuch Suerties as is aforeſaid.</p>
+            <p n="25">
+               <hi>25</hi> That they which ſhalbe allowed to be Alehouſe keepers and Victuallers ſhall be of honeſt conuerſati<g ref="char:EOLhyphen"/>on, and of reaſonable value, and to enter bonds with good ſureties to her Maieſties vſe to performe the or<g ref="char:EOLhyphen"/>ders following: which bonds ſhalbe by the Clerke of the Peace preſented to the Iuſtices in their Seſſions to be ſeene whether the conditions are broken: and thereupon the <hi>Cuſtos Rotulorum</hi> or his deputie to cer<g ref="char:EOLhyphen"/>tifie the ſame into the Eſchequer, and ſuch of them as ſhall refuſe to be bound not to be permitted to keepe any Alehouſe or Victualling houſe.</p>
+            <p n="26">
+               <hi>26</hi> That no Victuallers, Tiplers, &amp; Alehouſe kee<g ref="char:EOLhyphen"/>pers haue in their houſes, or do permit to be brought into their houſes any Cards, Dice, or Tables, nor to ſuffer any to play in their houſes, yards, or backſides, at any Cards, tables, dice, or other vnlawfull games.</p>
+            <p n="27">
+               <hi>27</hi> That no Victualler, Tipler, or Alehouſe keeper ſhall dreſſe or ſuffer to be dreſſed or eaten within his houſe any fleſh vpon any forbidden day, ſauing in caſe of neceſſity of ſickneſſe, according to the ſtatute in that behalfe prouided.</p>
+            <p n="28">
+               <hi>28</hi> That they ſuffer none to eat &amp; tiple, or victuall in their houſes but ſuch as are wayfaring men, that ſhall take the ſame to refreſh themſelues in their paſ<g ref="char:EOLhyphen"/>ſage or iourney, or ſuch as ſhalbe appointed to lodge or take diet in their houſes, but to deliuer out of their
+<pb n="13" facs="tcp:25907:8"/>houſes that quantity of drinke which their neigh<g ref="char:EOLhyphen"/>bors of the poorer ſort ſhall haue need of, to be drunke in the houſes of thoſe who fetch or ſend for the ſame, and not elſwhere.</p>
+            <p n="29">
+               <hi>29</hi> To permit no drunkeneſſe in their houſe, nor a<g ref="char:EOLhyphen"/>ny tipling at all on the Sabbath day, or holy day in time of Diuine ſeruice, nor after eight of the clocke in the afternoone.</p>
+            <p n="30">
+               <hi>30</hi> That no Victualler, Tipler, or Alehouſe keeper ſhall permit and ſuffer any perſon or perſons to lodge in his houſe aboue a day and a night, but ſuch as he will anſwere for, as the ſtatutes in that behalfe made do require.</p>
+            <p n="31">
+               <hi>31</hi> To giue ſtrait order and charge to euery Con<g ref="char:EOLhyphen"/>ſtable or other inferior officer to whom it may apper<g ref="char:EOLhyphen"/>taine, that euery of them ſhall once in euery fifteene dayes ſearch and inquire of the defaults and diſorders aforeſayd, and ſhall informe the Iuſtices of the Peace of the ſame defaults and diſorders if any be, that the offenders therein may therupon be proceeded on and puniſhed according to the law. And if it ſhall ſeeme to the Iuſtice that the petty conſtable be either a Vic<g ref="char:EOLhyphen"/>tualler, or one that ſhall fauour the Victuallers in their faults, then ſome other meet perſon to be ap<g ref="char:EOLhyphen"/>pointed to make the ſayd Inquiſition and Certificate.</p>
+            <p n="32">
+               <hi>32</hi> No Tipler to buy any goods of any wayfaring man, or other that ſhall bring the ſame to their hou<g ref="char:EOLhyphen"/>ſes to ſell, but of ſuch as ſhall be well knowen vnto them to be of honeſt conuerſation, and whom they ſhall be able alwayes to produce, or haue to be foorth comming.</p>
+            <p n="33">
+               <hi>33</hi> All theſe with ſuch other neceſſary Articles as the Iuſtices of the ſeuerall Counties (to whom the e<g ref="char:EOLhyphen"/>ſtate of the Shire is beſt knowen) ſhall thinke neceſ<g ref="char:EOLhyphen"/>ſary in the ſeuerall Counties to be added, the Ale<g ref="char:EOLhyphen"/>houſe
+<pb n="14" facs="tcp:25907:9"/>keepers and Victuallers ſhall be bound to ob<g ref="char:EOLhyphen"/>ſerue.</p>
+            <p n="34">
+               <hi>34</hi> Whoſoeuer ſhal vſe tipling or victualling with<g ref="char:EOLhyphen"/>out licence, or ſhall breake the Orders as aforeſayd to be preſcribed to them, to be proceeded withall, and ſe<g ref="char:EOLhyphen"/>uerely puniſhed, according to the ſtatute and law in that behalfe, and to be diſplaced.</p>
+            <p n="35">
+               <hi>35</hi> Laſtly, and if any ſhall offend againſt the true meaning of theſe inſtructions, or of any part thereof, or ſhal vſe any ſiniſter meane to the defrauding there<g ref="char:EOLhyphen"/>of, that ſuch be ſeuerely puniſhed according to the Lawes: and for ſuch obſtinate perſons as ſhall not conforme themſelues the Iuſtices ſhall at their diſ<g ref="char:EOLhyphen"/>cretion binde them to appeare before the Queenes Maieſties Priuy councell by a day certaine, there to be further dealt with by ſeuere puniſhment, for the betterenſample of all others.</p>
+            <pb facs="tcp:25907:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
